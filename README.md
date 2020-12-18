@@ -18,6 +18,3 @@ Front-end repository is [here](https://github.com/YoSoRyuShawn/your-solution-fro
 
 Back-end repository is [here](https://github.com/YoSoRyuShawn/your-solution-back).
 
-
-### Link
-<div>Our logo is created by <a href="https://www.designevo.com/jp/logo-maker/" title="無料オンラインロゴメーカー">DesignEvo</a>.</div>
