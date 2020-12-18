@@ -4,7 +4,7 @@
 
 **(このリポジトリはCode Chrysalisの生徒であるときに作成しました)**
 
-![ロゴ](./public/logo.png)
+![ロゴ](./public/logo-transparent-bg.png)
 
 ## About
 You can consult with doctors and aske questions from the comfort of your homes.
