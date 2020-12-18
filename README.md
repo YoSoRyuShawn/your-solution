@@ -1,13 +1,13 @@
 ## Hey, Doc!
 
-**This was created during my time as a student at Code Chrysalis**
+**This was created during our time as students at Code Chrysalis**
 
 **(このリポジトリはCode Chrysalisの生徒であるときに作成しました)**
 
 ![ロゴ](./public/logo-transparent-bg.png)
 
 ## About
-You can consult with doctors and aske questions from the comfort of your homes.
+You can consult with doctors and ask questions from the comfort of your home.
 
 With Hey, Doc!, you can book a session, pay fee, and receive a confirm mail with Zoom link.
 
